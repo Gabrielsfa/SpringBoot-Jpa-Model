@@ -1,0 +1,5 @@
+package com.ModelProject.Project.resources;
+
+public class UserResource {
+
+}

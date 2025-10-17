@@ -1,0 +1,5 @@
+package com.ModelProject.Project.entities;
+
+public class User {
+
+}
